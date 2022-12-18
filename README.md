@@ -8,6 +8,6 @@
 
 > Flexbox em CSS
 
-> Media Query em css
+> Media Query em CSS
 
 > Kit bibliotéca <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
